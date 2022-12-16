@@ -1,7 +1,7 @@
 {
   "name": "hexlet-hello-world",
   "version": "1.0.0",
-  "type": "module" ,
+  "type": "module",
   "description": "npm packege",
   "main": "index.js",
   "scripts": {
